@@ -4,7 +4,8 @@
    - O objetivo é criar imagens Docker pequenas e seguras para aplicações Go, utilizando técnicas avançadas de compilação e Multi-Stage Builds.
 
 ## Image
-- docker run teixeirahub/fullcycle
+# Link image: https://hub.docker.com/r/teixeirahub/fullcycle
+# Comando: docker run teixeirahub/fullcycle
 
 ## Multi-Stage Build
 ### O que é?
