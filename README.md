@@ -3,6 +3,9 @@
 ## Explicação Teórica: Docker + Go
    - O objetivo é criar imagens Docker pequenas e seguras para aplicações Go, utilizando técnicas avançadas de compilação e Multi-Stage Builds.
 
+## Image
+- docker run teixeirahub/fullcycle
+
 ## Multi-Stage Build
 ### O que é?
 - Um único Dockerfile com múltiplos estágios (FROM).
